@@ -16,7 +16,6 @@
 ##添加额外软件包
 git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 git clone https://github.com/xiaozhuai/luci-app-filebrowser.git package/luci-app-filebrowser
-git clone https://github.com/tindy2013/subconverter package/subconverter
 svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/luci-app-openclash
 
 # 编译 po2lmo (如果有po2lmo可跳过)
