@@ -9,5 +9,5 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git kenzok https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git dockerman https://github.com/lisaac/luci-app-dockerman
-src-git aria2 https://github.com/siren202101/aria2.git
-src-git tindy2013 https://github.com/tindy2013/subconverter.git
+src-git aria2 https://github.com/siren202101/aria2.git package/luci-app-aria2
+#src-git tindy2013 https://github.com/tindy2013/subconverter.git
