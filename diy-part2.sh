@@ -22,7 +22,7 @@ rm -rf package/lean/luci-app-aria2
 git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 git clone https://github.com/xiaozhuai/luci-app-filebrowser.git package/luci-app-filebrowser
 svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/luci-app-openclash
-git clone https://github.com/siren202101/aria2.git package/luci-app-aria2
+
 
 
 # 编译 po2lmo (如果有po2lmo可跳过)
