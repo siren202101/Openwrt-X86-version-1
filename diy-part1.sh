@@ -19,3 +19,5 @@ echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.co
 echo 'src-git smartdns https://github.com/pymumu/smartdns' >>feeds.conf.default
 echo 'src-git filebrowser https://github.com/xiaozhuai/luci-app-filebrowser' >>feeds.conf.default
 echo 'src-git dockerman https://github.com/lisaac/luci-app-dockerman' >>feeds.conf.default
+echo 'src-git luci-app-smartdns https://github.com/pymumu/luci-app-smartdns.git' >>feeds.conf.default
+
