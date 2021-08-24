@@ -9,6 +9,5 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git kenzok https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git dockerman https://github.com/lisaac/luci-app-dockerman
-#src-git bypass https://github.com/kiddin9/openwrt-bypass
-#src-git aria2 https://github.com/kiddin9/openwrt-packages/tree/master/aria2
-#src-git subconverter https://github.com/kiddin9/openwrt-packages/tree/master/subconverter
+src-git luci-app-smartdns https://github.com/pymumu/luci-app-smartdns.git
+src-git smartdns https://github.com/pymumu/smartdns
