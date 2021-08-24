@@ -9,4 +9,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git kenzok https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git dockerman https://github.com/lisaac/luci-app-dockerman
-src-git smartdns https://github.com/pymumu/smartdns
+#src-git smartdns https://github.com/pymumu/smartdns
