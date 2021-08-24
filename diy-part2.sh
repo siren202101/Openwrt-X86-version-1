@@ -11,7 +11,7 @@
 #
 
 # Modify default IP
-#sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+sed -i 's/192.168.1.1/192.168.50.15/g' package/base-files/files/bin/config_generate
 
 #移除不用软件包
 #rm -rf package/lean/luci-app-dockerman
@@ -22,6 +22,7 @@ rm -rf package/lean/luci-app-aria2
 git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 git clone https://github.com/xiaozhuai/luci-app-filebrowser.git package/luci-app-filebrowser
 svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/luci-app-openclash
+git clone https://github.com/pymumu/smartdns.git package/luci-app-smartdns
 
 
 
