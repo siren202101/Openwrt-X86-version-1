@@ -11,7 +11,7 @@
 #
 
 # Modify default IP
-sed -i 's/192.168.1.1/192.168.1.15/g' package/base-files/files/bin/config_generate
+sed -i 's/192.168.1.1/192.168.1.254/g' package/base-files/files/bin/config_generate
 
 #移除不用软件包
 #rm -rf package/lean/luci-app-dockerman
